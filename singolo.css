@@ -28,6 +28,7 @@ a, a:link, a:active, a:visited, a:hover {
     max-width: 1200px;
     background: transparent;
     position: relative;
+     min-width: 1040px;
 }
 .header .menu{
     display: flex;
@@ -45,7 +46,7 @@ a, a:link, a:active, a:visited, a:hover {
 
 }
 .logo:hover{
-    font-size: 18pt;
+    color: #f06c64;
     cursor: pointer;
 
 }
