@@ -49,16 +49,13 @@ a{
     font-weight: 300;
     color: #767e9e;
 }
-
 .portfolio-button {
     padding: 0;
     list-style: none;
 }
-
 .portfolio-button li {
     display: inline-block;
 }
-
 .portfolio-button li a {
     border: 1px solid #767e9e;
     color: #767e9e;
